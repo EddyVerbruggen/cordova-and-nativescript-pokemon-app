@@ -1,0 +1,30 @@
+{
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "readme": "NativeScript Application",
+  "repository": "<fill-your-repository-here>",
+  "nativescript": {
+    "id": "com.nativescripting.pokemon.nativescript",
+    "tns-android": {
+      "version": "4.0.1"
+    },
+    "tns-ios": {
+      "version": "4.0.1"
+    }
+  },
+  "dependencies": {
+    "nativescript-social-share": "~1.5.0",
+    "nativescript-theme-core": "~1.0.4",
+    "reflect-metadata": "~0.1.10",
+    "tns-core-modules": "~4.0.0",
+    "zone.js": "~0.8.20"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.25.0",
+    "babel-types": "6.25.0",
+    "babylon": "6.17.4",
+    "lazy": "1.0.11",
+    "nativescript-dev-typescript": "~0.7.1",
+    "typescript": "~2.8.0"
+  }
+}
