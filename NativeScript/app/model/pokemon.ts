@@ -1,4 +1,4 @@
 export interface Pokemon {
-    name: string;
-    sprite: string;
+  name: string;
+  sprite: string;
 }

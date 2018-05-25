@@ -9,7 +9,7 @@ For example, the following CSS rule changes the font size of all UI
 components that have the btn class name.
 */
 .btn {
-    font-size: 18;
+  font-size: 18;
 }
 
 /*
@@ -20,5 +20,5 @@ refer to http://docs.nativescript.org/ui/theme.
 @import 'nativescript-theme-core/css/core.light.css';
 
 .pokemon-name {
-    text-transform: capitalize;
+  text-transform: capitalize;
 }
